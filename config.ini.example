@@ -2,14 +2,14 @@
 debug = false
 
 [telegram]
-api_id =
-api_hash =
+api_id = 18414802
+api_hash = 91f7fd3675ec78755f67ffd2c6c513a7
 sessionfile = tgsession
-chatroom = 3C Quick Stats
+chatroom = 5011413076
 
 [commas]
-key =
-secret =
+key = 2a32e4a6f25046ac9a4d315acc835ffb2da33ea4c93748a2a5802414ec0dae9e
+secret = 238d7865bc8e7ea9f1a2a6ac0c44ab721925721cc67ef9804ed33263a2dfe60c2a419ad14c51cc753c37ec89de3cd4b36a810883d79b4b7a7db2b33244ee869884f8c4f49428227bb77727f6e4be966dd89064fbe6bb84f142502502e909dce74e8f5e7e
 timeout = 3
 retries = 5
 delay_between_retries = 2.0
@@ -17,16 +17,16 @@ delay_between_retries = 2.0
 [dcabot]
 prefix = 3CQSBOT
 subprefix = MULTI
-suffix = TA_SAFE
-tp = 1.5
+suffix = banshee_symrank
+tp = 3
 bo = 11
 so = 11
-os = 1.05
-ss = 1
-sos = 2.4
-mad = 1
+os = 1.4
+ss = 1.35
+sos = 1.5
+mad = 2
 max = 1
-mstc = 25
+mstc = 5
 sdsp = 1
 single = false
 single_count = 3
@@ -35,7 +35,7 @@ btc_min_vol = 100
 [trading]
 market = USDT
 trade_mode = paper
-account_name = Paper Account 1064454
+account_name = Paper Account 929187
 delete_single_bots = false
 # Binance only
 trailing = false
